@@ -1,0 +1,26 @@
+body {
+ background-image: url("https://images.pexels.com/photos/1428787/pexels-photo-1428787.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+ background-color: #cccccc;
+ 
+ font-family: 'Tahoma'; 
+}
+
+heading{
+  text-align: center; 
+  color: #1FC4DA;
+}
+.intro{
+  color: #2D0C03;
+  text-align: center; 
+}
+p{
+  font-family: 'Arial'; 
+  color: #6A8A94;
+}
+.info{
+  color: #2F74C8
+}
+.name{
+  color: white;
+}
+
