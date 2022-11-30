@@ -1,263 +1,262 @@
 body{
-  color: black;
-  color: #292f36;
-    font-family: helvetica;
-    line-height: 1.6;
-}
-
-.team{
-  color: white;
-  text-align: left;
-  font-family: 'Arial'; 
-   font-size: 100px;
-  border-style: solid; width:435px;
- border-radius: 15px;
-  background-color: black;
-}
-
-.intro{
-  text-align: center;
-}
-.hoc{
-  text-align: center;
-  font-family: 'Lato', sans-serif; 
-  font-size: 65px;
-  border-style: solid;
- border-radius: 15px;
-}
-p{
-  font-family: 'Monaco';
-  font-size: 25px;
-
-}
-.img{
-  width: 100%;
-  height: 600px;
-  margin-bottom: 25px;
-}
-
-
-
-
-.img1{
-  width: 200px;
-  height: 200px;
- border-style: solid; 
- border-radius: 15px;
-  margin-right: 20px;
-  margin-bottom: 40px;
-}
-
-.nrgz{
-  font-size: 45px;
-  font-family: 'Monaco';
-  border-style: solid; width:435px;
- border-radius: 15px;
- 
-}
-
-.nrgztxt{
-  text-align: left;
+    color: black;
+    color: #292f36;
+      font-family: helvetica;
+      line-height: 1.6;
+  }
   
-}
-
-
-
-
-.img2{
-  width: 200px;
-  height: 200px;
- border-style: solid; 
- border-radius: 15px;
-  margin-left: 20px;
-  margin-bottom: 40px;
-}
-
-.alii{
-  font-size: 45px;
-  font-family: 'Monaco';
-  border-style: solid; 
- border-radius: 15px;
-  text-align: left;
-margin-left: 800px;
-}
-
-.aliitxt{
-  text-align: right;
-}
-
-
-
-.img3{
-  width: 200px;
-  height: 200px;
- border-style: solid; 
- border-radius: 15px;
-  margin-right: 20px;
-  margin-bottom: 40px;
-}
-
-.mrd{
-  font-size: 45px;
-  font-family: 'Monaco';
-  border-style: solid; width:435px;
- border-radius: 15px;
- 
-}
-
-.mrdtxt{
-  text-align: left;
-  
-}
-
-
-.img4{
-  width: 200px;
-  height: 200px;
- border-style: solid; 
- border-radius: 15px;
-  margin-left: 20px;
-  margin-bottom: 40px;
-}
-
-.rsll{
-  font-size: 45px;
-  font-family: 'Monaco';
-  border-style: solid; 
- border-radius: 15px;
-  text-align: left;
-margin-left: 800px;
-}
-
-.rslltxt{
-  text-align: right;
-}
-
-.find{
-  color: white;
-  text-align: left;
-  font-family: 'Arial'; 
-   font-size: 125px;
-  border-style: solid; 
- border-radius: 15px;
-  background-color: black;
-}
-
-
-
-
-
-.membs{
-  color: white;
-  background-color: black;
-  text-align: center;
- font-family: 'Lato', sans-serif;
-  border-style: solid;
- border-radius: 15px;
-  
-}
-
-
-
-.shorti{
-  text-align: center;
-  
-  font-size: 45px;
-  border-bottom: solid;
-  border-style: solid; width: 100;
-  border-radius: 15px;
-  background-color: black;
-  background-align: center;
-  color: white;
- font-family: 'Lato', sans-serif;
-}
-.linee {
-  height: 3px;
-  background: black;
-}
-  .lineee {
-  height: 1px;
-  background: black;
-}
-.info{
-  width: 100%;
-   height: 300px;
-  overflow: scroll;
-  background-color: #F8F8F8;	
-   
-}
-
-
-
-
-
-
-
-
-
-.button {
-  
-  background-color: #000000;
-  border: 2px solid #1A1A1A;
-  border-radius: 15px;
-  box-sizing: border-box;
-  color: #FFFFFF;
-  
-  display: inline-block;
-  font-family: Roobert,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-  font-size: 16px;
-  font-weight: 600;
-  line-height: normal;
-  margin: 0;
-  min-height: 60px;
-  min-width: 0;
-
-  padding: 16px 24px;
-  text-align: center;
-  text-decoration: none;
-  transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
- 
-  touch-action: manipulation;
-  width: 100%;
-  will-change: transform;
-}
-
-
-
-.button:hover {
-  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
-  transform: translateY(-2px);
-}
-
-.button:active {
-  box-shadow: none;
-  transform: translateY(0);
-}
-
-
-
-
-
-
-.serpent {
+  .team{
+    color: white;
+    text-align: left;
+    font-family: 'Arial'; 
+     font-size: 100px;
+    border-style: solid; width:435px;
+   border-radius: 15px;
     background-color: black;
-    background-image: url('https://media.istockphoto.com/id/1285676760/vector/snake-logo-isolated-snake-on-white-background.jpg?b=1&s=612x612&w=0&k=20&c=ImwroqoyqJ4dE3x6cr5jpdy6tTFgxpdv7yPfcUpT8wY=');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+  }
+  
+  .intro{
+    text-align: center;
+  }
+  .hoc{
+    text-align: center;
+    font-family: 'Lato', sans-serif; 
+    font-size: 65px;
+    border-style: solid;
+   border-radius: 15px;
+  }
+  p{
+    font-family: 'Monaco';
+    font-size: 25px;
+  
+  }
+  .img{
     width: 100%;
-    height: 850px;
-  margin-bottom: 20px;
+    height: 600px;
+    margin-bottom: 25px;
+  }
   
-}
-
-header h1 {
+  
+  
+  
+  .img1{
+    width: 200px;
+    height: 200px;
+   border-style: solid; 
+   border-radius: 15px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+  }
+  
+  .nrgz{
+    font-size: 45px;
+    font-family: 'Monaco';
+    border-style: solid; width:435px;
+   border-radius: 15px;
+   
+  }
+  
+  .nrgztxt{
+    text-align: left;
+    
+  }
+  
+  
+  
+  
+  .img2{
+    width: 200px;
+    height: 200px;
+   border-style: solid; 
+   border-radius: 15px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+  }
+  
+  .alii{
+    font-size: 45px;
+    font-family: 'Monaco';
+    border-style: solid; 
+   border-radius: 15px;
+    text-align: left;
+  margin-left: 800px;
+  }
+  
+  .aliitxt{
+    text-align: right;
+  }
+  
+  
+  
+  .img3{
+    width: 200px;
+    height: 200px;
+   border-style: solid; 
+   border-radius: 15px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+  }
+  
+  .mrd{
+    font-size: 45px;
+    font-family: 'Monaco';
+    border-style: solid; width:435px;
+   border-radius: 15px;
+   
+  }
+  
+  .mrdtxt{
+    text-align: left;
+    
+  }
+  
+  
+  .img4{
+    width: 200px;
+    height: 200px;
+   border-style: solid; 
+   border-radius: 15px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+  }
+  
+  .rsll{
+    font-size: 45px;
+    font-family: 'Monaco';
+    border-style: solid; 
+   border-radius: 15px;
+    text-align: left;
+  margin-left: 800px;
+  }
+  
+  .rslltxt{
+    text-align: right;
+  }
+  
+  .find{
+    color: white;
+    text-align: left;
+    font-family: 'Arial'; 
+     font-size: 125px;
+    border-style: solid; 
+   border-radius: 15px;
     background-color: black;
-    color: #fff;
-    padding: 0 1rem;
-    position: absolute;
-    top: 2rem; 
-    left: 2rem;
-  border-radius: 15px;
-}
+  }
+  
+  
+  
+  
+  
+  .membs{
+    color: white;
+    background-color: black;
+    text-align: center;
+   font-family: 'Lato', sans-serif;
+    border-style: solid;
+   border-radius: 15px;
+    
+  }
+  
+  
+  
+  .shorti{
+    text-align: center;
+    
+    font-size: 45px;
+    border-bottom: solid;
+    border-style: solid; width: 100%;
+    border-radius: 15px;
+    background-color: black;
 
+    color: white;
+   font-family: 'Lato', sans-serif;
+  }
+  .linee {
+    height: 3px;
+    background: black;
+  }
+    .lineee {
+    height: 1px;
+    background: black;
+  }
+  .info{
+    width: 100%;
+     height: 300px;
+    overflow: scroll;
+    background-color: #F8F8F8;	
+     
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  .button {
+    
+    background-color: #000000;
+    border: 2px solid #1A1A1A;
+    border-radius: 15px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    
+    display: inline-block;
+    font-family: Roobert,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0;
+    min-height: 60px;
+    min-width: 0;
+  
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+   
+    touch-action: manipulation;
+    width: 100%;
+    will-change: transform;
+  }
+  
+  
+  
+  .button:hover {
+    box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+    transform: translateY(-2px);
+  }
+  
+  .button:active {
+    box-shadow: none;
+    transform: translateY(0);
+  }
+  
+  
+  
+  
+  
+  
+  .serpent {
+      background-color: black;
+      background-image: url('https://media.istockphoto.com/id/1285676760/vector/snake-logo-isolated-snake-on-white-background.jpg?b=1&s=612x612&w=0&k=20&c=ImwroqoyqJ4dE3x6cr5jpdy6tTFgxpdv7yPfcUpT8wY=');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 100%;
+      height: 850px;
+    margin-bottom: 20px;
+    
+  }
+  
+  header h1 {
+      background-color: black;
+      color: #fff;
+      padding: 0 1rem;
+      position: absolute;
+      top: 2rem; 
+      left: 2rem;
+    border-radius: 15px;
+  }
