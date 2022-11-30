@@ -140,7 +140,7 @@ body{
      font-size: 125px;
     border-style: solid; 
    border-radius: 15px;
-    background-color: black;
+    background-image: url(https://npr.brightspotcdn.com/dims4/default/60242fd/2147483647/strip/true/crop/2048x1365+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwvpn%2Ffiles%2F201609%2F2048px-Night-sky-milky-way-galaxy-astrophotography_-_West_Virginia_-_ForestWander.jpg);
   }
   
   
@@ -204,7 +204,7 @@ body{
     color: #FFFFFF;
     
     display: inline-block;
-    font-family: Roobert,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-family: 'Arial';
     font-size: 16px;
     font-weight: 600;
     line-height: normal;
@@ -234,8 +234,17 @@ body{
     transform: translateY(0);
   }
   
+  #scroll{
+
+    scroll-behavior: smooth;
+  }
   
-  
+
+  table, th, td {
+    border: 1px solid;
+    width: 100%;
+    height: 200px;
+  }
   
   
   
