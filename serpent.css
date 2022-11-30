@@ -14,6 +14,7 @@ body{
  border-radius: 15px;
   background-color: black;
 }
+
 .intro{
   text-align: center;
 }
@@ -238,7 +239,7 @@ margin-left: 800px;
 
 
 
-.header-banner {
+.serpent {
     background-color: black;
     background-image: url('https://media.istockphoto.com/id/1285676760/vector/snake-logo-isolated-snake-on-white-background.jpg?b=1&s=612x612&w=0&k=20&c=ImwroqoyqJ4dE3x6cr5jpdy6tTFgxpdv7yPfcUpT8wY=');
     background-position: center;
@@ -246,42 +247,17 @@ margin-left: 800px;
     background-size: cover;
     width: 100%;
     height: 850px;
+  margin-bottom: 20px;
+  
 }
 
 header h1 {
-    background-color: rgba(18,72,120, 0.8);
+    background-color: black;
     color: #fff;
     padding: 0 1rem;
     position: absolute;
     top: 2rem; 
     left: 2rem;
-}
-
-.fixed-header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%; 
-}
-
-nav {
-    width: 100%;
-    height: 60px;
-    background: black;
-    postion: fixed;
-    z-index: 10;
-}
-
-nav div {
-    color: white;
-    font-size: 2rem;
-    line-height: 60px;
-    position: absolute;
-    top: 0;
-    left: 2%;
-    visibility: hidden;
-}
-.visible-title {
-    visibility: visible;
+  border-radius: 15px;
 }
 
